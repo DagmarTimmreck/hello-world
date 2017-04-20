@@ -1,5 +1,5 @@
 # hello-world
-A friendly little repository
+# A friendly little repository
 
 Hi!
 
